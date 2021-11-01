@@ -27,8 +27,8 @@ Some of the tables used in the analysis:
 
 ## Timeline: 
 
-Week 1: Data aquisition, EDA, data cleaning
+Week 1: Set up Google drive, CoLab, Data aquisition, EDA
 
-Week 2: Feature engineering, model selection
+Week 2: Data cleaning, feature engineering, model selection
 
 Week 3: Model evaluation, reporting on Jupyter Notebook
