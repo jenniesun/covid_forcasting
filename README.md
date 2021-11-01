@@ -26,7 +26,7 @@ Some of the tables used in the analysis:
 
 
 Timeline: 
-Week 1: Data aquisition, EDA
+Week 1: Data aquisition, EDA, data cleaning
 
 Week 2: Feature engineering, model selection
 
