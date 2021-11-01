@@ -11,10 +11,10 @@ Shannon Murphy (Master in Biostatistics)
 Leveraging ML to forceast State (and county/region) level COVID-19 cases, deaths, and hospitalization. 
 
 ## Unit of Analysis: 
-- # of COVID-19 cases / week
-- # of COVID-19 deaths / week
+- number of COVID-19 cases / week
+- number of COVID-19 deaths / week
 
-## Data: 
+## Data:
 Main: Open-Access Data and Computational Resources to Address COVID-19(https://datascience.nih.gov/covid-19-open-access-resources)
 Supplementary: Data Behind the Dashboards | NC COVID-19 (https://covid19.ncdhhs.gov/dashboard/data-behind-dashboards)
 
