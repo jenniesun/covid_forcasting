@@ -29,9 +29,11 @@ Tables used in the analysis:
 - Vaccinations - Doses by County
 - Wastewater monitoring 
 
-Tool:
+Tools:
 
 Google Colab: https://colab.research.google.com/drive/1mHLTMl_ijPuWJRn0V-QplcNKso-CS1XO
+
+Google Drive: https://drive.google.com/drive/folders/12TEcv7JzOSY0tIiVilll4KTmjUIgHhd2
 
 ## Timeline: 
 
