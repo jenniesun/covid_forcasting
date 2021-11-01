@@ -8,7 +8,7 @@ Shannon Murphy (Master in Biostatistics)
 
 
 ## Objective:
-Leveraging ML to forceast State (and county/region) level COVID-19 cases, deaths, and hospitalization. 
+Leveraging ML to forecast State (and county/region) level COVID-19 cases, deaths, and hospitalization. 
 
 ## Unit of Analysis: 
 - number of COVID-19 cases / week
