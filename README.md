@@ -11,14 +11,19 @@ Shannon Murphy (Master in Biostatistics)
 Leveraging ML to forecast State (and county/region) level COVID-19 cases, deaths, and hospitalization. 
 
 ## Unit of Analysis: 
-- number of COVID-19 cases / week
-- number of COVID-19 deaths / week
+- Number of COVID-19 cases / week
+- Number of COVID-19 deaths / week
 
 ## Data:
-Main: Open-Access Data and Computational Resources to Address COVID-19(https://datascience.nih.gov/covid-19-open-access-resources)
-Supplementary: Data Behind the Dashboards | NC COVID-19 (https://covid19.ncdhhs.gov/dashboard/data-behind-dashboards)
+Main: 
 
-Some of the tables used in the analysis:
+Open-Access Data and Computational Resources to Address COVID-19(https://datascience.nih.gov/covid-19-open-access-resources)
+
+Supplementary: 
+
+Data Behind the Dashboards | NC COVID-19 (https://covid19.ncdhhs.gov/dashboard/data-behind-dashboards)
+
+Tables used in the analysis:
 - State and County level COVID-19 cases & death count
 - Hospital Beds and Ventilators
 - Vaccinations - Doses by County
