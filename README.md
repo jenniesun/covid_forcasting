@@ -25,7 +25,8 @@ Some of the tables used in the analysis:
 - Wastewater monitoring 
 
 
-Timeline: 
+## Timeline: 
+
 Week 1: Data aquisition, EDA, data cleaning
 
 Week 2: Feature engineering, model selection
