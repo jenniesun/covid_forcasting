@@ -27,7 +27,7 @@ Tables used in the analysis:
 - State and County level COVID-19 cases & death count
 - Hospital Beds and Ventilators
 - Vaccinations - Doses by County
-- Wastewater monitoring 
+- Wastewater monitoring (to be determined) 
 
 Tools:
 
