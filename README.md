@@ -17,7 +17,8 @@ Leveraging ML to forecast State (and county/region) level COVID-19 cases, deaths
 ## Data:
 Main: 
 
-Open-Access Data and Computational Resources to Address COVID-19(https://datascience.nih.gov/covid-19-open-access-resources)
+Open-Access Data and Computational Resources to Address COVID-19 (https://datascience.nih.gov/covid-19-open-access-resources)
+* Amazon Web Services (AWS) data lake for analysis of COVID-19 data
 
 Supplementary: 
 
