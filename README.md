@@ -25,9 +25,9 @@ Supplementary:
 Data Behind the Dashboards | NC COVID-19 (https://covid19.ncdhhs.gov/dashboard/data-behind-dashboards)
 
 Tables used in the analysis:
-- State and County level COVID-19 cases & death count
+- COVID-19 cases & death count
 - Hospital Beds and Ventilators
-- Vaccinations - Doses by County
+- Hospital Metrics by Region 
 
 ## Tools:
 
