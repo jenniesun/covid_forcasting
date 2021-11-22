@@ -1,10 +1,10 @@
 ## Members of the Team:
 
-Jennie Sun (Master of Science in Interdisciplinarity Data Science) 
+Jennie Sun: [@jenniesun](https://github.com/jenniesun) (Master of Science in Interdisciplinarity Data Science) 
 
-Malcolm Fraser (Master of Science in Interdisciplinarity Data Science) 
+Malcolm Fraser: [@malcolmsfraser](https://github.com/malcolmsfraser) (Master of Science in Interdisciplinarity Data Science) 
 
-Shannon Murphy (Master in Biostatistics) 
+Shannon Murphy: [@smurphy567](https://github.com/smurphy567) (Master in Biostatistics) 
 
 
 ## Objective:
