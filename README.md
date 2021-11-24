@@ -8,8 +8,7 @@ Shannon Murphy: [@smurphy567](https://github.com/smurphy567) (Master in Biostati
 
 
 ## Objective:
-Leveraging ML to forecast region level COVID-19 deaths. 
-Region of interest: Duke Healthcare Preparedness Coalition (DHPC)
+Our team sought to use publicly available to forecast COVID-19 deaths. We focused on publicly available data from Durham, NC and its neighboring regions [Duke Healthcare Preparedness Coalition (DHPC)]. Through the course of this project we compared the effective effectiveness of both univariate and multivariate approaches to forcasting weekly deaths. An accurate death forecast is vital to managing any pandemic and its consequences, and while the most effective forecasting models involve more epidemiological considerations, we hope that our findings can shed light on how effective purely machine learning approaches can be when such domain expertise is unavailable.
 
 ## Unit of Analysis: 
 - Number of COVID-19 deaths in DHPC / week
