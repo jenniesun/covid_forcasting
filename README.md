@@ -35,7 +35,7 @@ Google Colab: https://colab.research.google.com/drive/1mHLTMl_ijPuWJRn0V-QplcNKs
 
 Google Drive: https://drive.google.com/drive/folders/12TEcv7JzOSY0tIiVilll4KTmjUIgHhd2
 
-# Models
+## Models
 
 Univariate Time-Series Forecasting with ARIMA
 
@@ -49,3 +49,13 @@ Week 1: Set up Google drive, CoLab, Data aquisition, EDA
 Week 2: Data cleaning, feature engineering, model selection
 
 Week 3: Model evaluation, reporting on Jupyter Notebook
+
+## Individual Contribution:
+
+Shannon: Data Cleaning, Feature Engineering
+
+Jennie: Univariate Analysis
+
+Malcolm: Multivariate Analysis
+
+
